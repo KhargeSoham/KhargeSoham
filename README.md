@@ -115,15 +115,6 @@
 
 </div>
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KhargeSoham&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</div>
-
-### 🔝 Top Contributed Repo
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KhargeSoham&repo=SportTeamMemberSystem&theme=tokyonight" />
 
 ## 🐍 Contribution Snake
 
