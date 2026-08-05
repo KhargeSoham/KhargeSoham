@@ -126,7 +126,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KhargeSoham/KhargeSoham/output/github-contribution-grid-snake.svg" />
 </picture>
 
-*(Needs a one-time GitHub Action setup — see `snake.yml` below)*
+
 
 </div>
 
