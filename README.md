@@ -123,11 +123,7 @@
 
 ### 🔝 Top Contributed Repo
 
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=KhargeSoham&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
-
-<br>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KhargeSoham&repo=SportTeamMemberSystem&theme=tokyonight" />
 
 ## 🐍 Contribution Snake
 
