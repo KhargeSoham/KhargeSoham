@@ -5,7 +5,7 @@ on:
     - cron: "0 0 * * *"   # runs once a day
   push:
     branches:
-      - main
+      - FULL
   workflow_dispatch: {}
 
 jobs:
